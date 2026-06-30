@@ -1,10 +1,9 @@
-# Git and GitHub Basics
+# Git and GitHub commit assignment
 
 ## Student Information
 - Name: Abdulhafiz Salisu Bello
 - Registration Number: CST/22/SWE/00814
 - Course: SWE4201 - Software Configuration Management & Maintenance
-- Institution: Bayero University Kano
 
 ## Project Description
 This is a simple project created to demonstrate basic knowledge of Git and GitHub.
